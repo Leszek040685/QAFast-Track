@@ -25,3 +25,4 @@ zbiór przypadków testowych
 test case  przypadki testowe   
 konkretny przypadek z kilkoma krokami i oczekawanym rezultatem 
                                            
+Hello GIT
