@@ -12,6 +12,7 @@ Po wejściu w dany film ma być:
   aktorzy 
   twórcy 
   data powstania 
+  czas trwania
   trailer
   lista filmów o podobnej tematycze 
   lista filmów reżysera 
@@ -22,6 +23,8 @@ po kliknięciu w aktorów ma się otworzyć lista aktorów
 po wejsciu w twórców ma się rozwinąć lista nazwisk po klinecii w postrzegulne nazwiska ma się rozwinąć informacja przy jakich filmach pracowała
 po klikniećiu w datę postania ma sie pokaząc lista filmów które w danym roku powstały
   po kliknieciu w w listę filmów o podobnej tematyce ma się otworzyć lista filmów 
+  po kliknieciu w długośc filmu otworzy się lista filmów o podobnej długości
+ 
 po wlaczeniu oceny uzytkonik moze ocenić film
 ocena ma byc srednia wszytkich occen uzytkowników
 dodatkowa ocena (ocena strony filmwebu)
