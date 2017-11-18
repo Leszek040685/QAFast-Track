@@ -1,2 +1,26 @@
+test plan
+  właczenie internetu
+właczenie aplikacji 
+  w przypadku braku internetu alikacja ma poinformowaćo tym 
+  gdy właczy się internet aplikacja ma się odswierzyć   
+filmy mają sie utawić na początku alfabetycznie
+Po wejściu w dany film ma być:
+  nazwa filmu 
+  gaunek filmu 
+  opis 
+  aktorzy 
+  twórcy 
+  data powstania 
+  trailer
+  lista filmów o podobnej tematycze 
+  lista filmów reżysera 
+  
+po powrosie do listy filmów lista filmów ma sie odswierzyć 
+siatka filmów 2/3 w pozycji pioneowej 
+w poziomej 3/na 2 
+
+
+
 Stworzenie listy filmów
+
 Podlinkowanie każdej pozycji / ew. pobranie danych o filmach z strony intrnetowej 
