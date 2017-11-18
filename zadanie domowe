@@ -2,7 +2,8 @@ test plan
   właczenie internetu
 właczenie aplikacji 
   w przypadku braku internetu alikacja ma poinformowaćo tym 
-  gdy właczy się internet aplikacja ma się odswierzyć   
+  gdy właczy się internet aplikacja ma się odswierzyć  
+Ustawienie jezyka 
 filmy mają sie utawić na początku alfabetycznie
 Po wejściu w dany film ma być:
   nazwa filmu 
@@ -20,6 +21,10 @@ po kliknięciu w aktorów ma się otworzyć lista aktorów
   po kliknięciu w poszczególnego aktora ma się pokazć jego filmografia i życiorys wraz ze zdjęciem 
 po wejsciu w twórców ma się rozwinąć lista nazwisk po klinecii w postrzegulne nazwiska ma się rozwinąć informacja przy jakich filmach pracowała
 po klikniećiu w datę postania ma sie pokaząc lista filmów które w danym roku powstały
+  po kliknieciu w w listę filmów o podobnej tematyce ma się otworzyć lista filmów 
+po wlaczeniu oceny uzytkonik moze ocenić film
+ocena ma byc srednia wszytkich occen uzytkowników
+dodatkowa ocena (ocena strony filmwebu)
 
 po powrosie do listy filmów lista filmów ma sie odswierzyć 
 siatka filmów 2/3 w pozycji pioneowej 
