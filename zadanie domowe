@@ -14,11 +14,19 @@ Po wejściu w dany film ma być:
   trailer
   lista filmów o podobnej tematycze 
   lista filmów reżysera 
-  
+  ocena użytkowników
+po kliknięcu w gatunek ma się pokaząc lista filmów danego gatunku 
+po kliknięciu w aktorów ma się otworzyć lista aktorów 
+  po kliknięciu w poszczególnego aktora ma się pokazć jego filmografia i życiorys wraz ze zdjęciem 
+po wejsciu w twórców ma się rozwinąć lista nazwisk po klinecii w postrzegulne nazwiska ma się rozwinąć informacja przy jakich filmach pracowała
+po klikniećiu w datę postania ma sie pokaząc lista filmów które w danym roku powstały
+
 po powrosie do listy filmów lista filmów ma sie odswierzyć 
 siatka filmów 2/3 w pozycji pioneowej 
 w poziomej 3/na 2 
 
+filtry 
+top 10 na świecie
 
 
 Stworzenie listy filmów
