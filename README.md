@@ -26,6 +26,8 @@ test case  przypadki testowe
 konkretny przypadek z kilkoma krokami i oczekawanym rezultatem 
                                            
 Hello GIT
+BDD
+Behavior Driven Develepment
 
 początkowe [Initial conditions]
 gieven waruki początkowe
@@ -35,3 +37,17 @@ then [exp result]
 Initial
 conditions
 jako użykownik będącna ekranie detali fimu będącego dostępnego
+
+Scram
+Baclock pełna lista zadań
+sprinty część zadań
+planing 
+
+KAMBAN
+(zadanie bez terminu)
+wszystkie zadania wedle priorytetów za robione
+zadania maja ustawione priorytety
+jedna osoba nie robi zadania
+1A 
+2B
+3A
