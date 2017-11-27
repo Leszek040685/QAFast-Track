@@ -54,6 +54,16 @@ jedna osoba nie robi zadania
 BACLOCK 
 KAMBAN, SPRINT
 Intercja 
-DOD Definicion of Done
-DOR Definicion of Redy
+DOD Definicion of Done 
+DOR Definicion of Redy jak ma wygladać aplikacja 
+
+środowiska 
+testowe
+prdukcja 
+preprop - środowisko dla klijenta 
+DEV środowisko developerskie  
+Relise version (wersja testu)
+Branch -zadanie
+
+
 
