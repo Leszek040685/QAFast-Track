@@ -51,3 +51,9 @@ jedna osoba nie robi zadania
 1A 
 2B
 3A
+BACLOCK 
+KAMBAN, SPRINT
+Intercja 
+DOD Definicion of Done
+DOR Definicion of Redy
+
