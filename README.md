@@ -32,4 +32,6 @@ gieven waruki początkowe
 when [test steps]
 
 then [exp result]
-
+Initial
+conditions
+jako użykownik będącna ekranie detali fimu będącego dostępnego
