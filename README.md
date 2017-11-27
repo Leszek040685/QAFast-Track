@@ -26,3 +26,10 @@ test case  przypadki testowe
 konkretny przypadek z kilkoma krokami i oczekawanym rezultatem 
                                            
 Hello GIT
+
+początkowe [Initial conditions]
+gieven waruki początkowe
+when [test steps]
+
+then [exp result]
+
