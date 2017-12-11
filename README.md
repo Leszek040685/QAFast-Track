@@ -70,6 +70,10 @@ SQL
 REST API jak wygladają metody http
 kurs java/python
 git
+testy penetracyjne 
+testy wydajnościowe
+automatyzacja
+
 
 
 
