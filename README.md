@@ -64,6 +64,12 @@ preprop - środowisko dla klijenta
 DEV środowisko developerskie  
 Relise version (wersja testu)
 Branch -zadanie
+ENG 
+BASH
+SQL
+REST API jak wygladają metody http
+kurs java/python
+git
 
 
 
